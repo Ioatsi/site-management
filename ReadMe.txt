@@ -1,5 +1,5 @@
-This is the decoupled CRUD assignement for Victus by Ioannis Tsilikas. 
-This project includec a Laravel backend and an Angular frontend.
+This is a decoupled CRUD assignement for Victus by Ioannis Tsilikas. 
+This project includes a Laravel backend and Angular frontend.
 I have already placed the Angular build files in the public Laravel folder.
 In order to run the project do the following:
 cd backend
